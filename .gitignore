@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Zerodha Holdings Discrepancies generated outputs
+ZerodhaHoldingsDiscrepancies/CAS.txt
+ZerodhaHoldingsDiscrepancies/transactions.csv
+ZerodhaHoldingsDiscrepancies/trade_groups/
+ZerodhaHoldingsDiscrepancies/run_reports/
+ZerodhaHoldingsDiscrepancies/storage_state.json
